@@ -1,0 +1,8 @@
+.idea/
+.pytest_cache/
+tossip.egg-info/
+build/
+venv/
+*.iml
+.gitattributes
+.github
