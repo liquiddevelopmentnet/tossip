@@ -1,4 +1,4 @@
-# ⚠ Still in Development
+# :heavy_exclamation_mark: Still in Development
 # Tossip
 A library to easily communicate with iOS Devices natively.
 
@@ -7,6 +7,15 @@ A library to easily communicate with iOS Devices natively.
 - support for python >= 3.6
 
 Feel free to contribute!
+
+## Install using pip
+```
+pip install tossip
+```
+For Linux distributions with both python2 and python3 (e.g. Debian, Ubuntu, ...) you need to run
+```
+pip3 install tossip
+```
 
 ## Usage
 
